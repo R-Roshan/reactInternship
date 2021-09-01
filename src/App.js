@@ -1,5 +1,6 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
+import "./next";
 
 function App() {
   return (
@@ -16,6 +17,9 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
+        </a>
+        <a className="App-link" href="www.google.com">
+          Hello
         </a>
       </header>
     </div>
