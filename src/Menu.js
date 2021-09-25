@@ -26,7 +26,7 @@ const Menu = () => {
     <>
       <Navbar bg="light" expand="md">
         <Container>
-          <Navbar.Brand href="#">Achu ma</Navbar.Brand>
+          <Navbar.Brand href="#">Dlithe Kart</Navbar.Brand>
           <Navbar.Toggle aria-control="logitems"></Navbar.Toggle>
           <Navbar.Collapse id="logitems">
             <Nav className="ms-auto">
