@@ -27,7 +27,7 @@ const SignUp = () => {
     const txt = localStorage.getItem("profiles");
     yet = JSON.parse(txt);
     if (account.pass === account.conpass) {
-      yet.push(account);
+      // yet.push(account);
       const wet = JSON.stringify(yet);
       localStorage.setItem("profiles", wet);
       cancel();

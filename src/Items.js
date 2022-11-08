@@ -116,6 +116,6 @@ export const laptops = [
     pic: "images/lap4.jpg",
     brand: "DELL ",
     size: ["White"],
-    cost: 65450,
+    cost: 65428,
   },
 ];

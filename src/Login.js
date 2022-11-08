@@ -100,7 +100,7 @@ const Login = () => {
               value={info.pass}
               className="form-control mb-3"
               id="outlined-adornment-password"
-              type={showPass ? "text" : "password"}
+              // type={showPass ? "text" : "password"}
               onClick={handleClickShowPassword}
               onMouseDown={handleMouseDownPassword}
               onChange={hai}
